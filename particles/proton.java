@@ -22,7 +22,8 @@ public class proton extends particle {
         setVelocity(newVx, newVy);
     }
 
-    // Metodă pentru a seta viteza (getter/setter adăugat)
+    // Metodă pentru a seta viteza
+    // Metodă pentru a seta viteza
     private void setVelocity(double vx, double vy) {
         this.vx = vx;
         this.vy = vy;
