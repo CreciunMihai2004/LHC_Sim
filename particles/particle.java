@@ -3,7 +3,8 @@ package particles;
 public class particle {
     // Atributele particulei
     private double x, y;       // Poziția
-    private double vx, vy;     // Viteza
+    double vx;
+    double vy;     // Viteza
     private double mass;       // Masă
     private double charge;     // Sarcină electrică
 
